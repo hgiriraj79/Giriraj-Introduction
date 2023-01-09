@@ -1,6 +1,6 @@
 Hey, There!
 
-👋 Hi, I’m Giriraj Heda
+<br> 👋 Hi, I’m Giriraj Heda </br>
 🏫 Currently pursuing Master's degree at University of Toronto
 🎓 Specializing in Human Centred Data Science and Information System & Design
 🧐 My interests at Data Science, Data Analytics and Machine Learning
