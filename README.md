@@ -1,4 +1,4 @@
-Hey, There!
+Hey there!
 
 <br> 👋 Hi, I’m Giriraj Heda </br>
 <br> 🏫 I hold a master's degree from University of Toronto in Data Science 🎓 </br>
